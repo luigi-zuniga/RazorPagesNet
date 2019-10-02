@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/kernel_panic/.dotnet/store/|arch|/|tfm|",
+      "/Users/kernel_panic/.nuget/packages"
+    ]
+  }
+}
